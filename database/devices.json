@@ -1,0 +1,65 @@
+[
+  {
+    "brand": "Samsung",
+    "platform": "MediaTek",
+    "series": "Galaxy A",
+    "model": "Galaxy A12",
+    "variants": ["SM-A125F", "SM-A125M"]
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "series": "Galaxy A",
+    "model": "Galaxy A13",
+    "variants": ["SM-A135F", "SM-A135M"]
+  },
+  {
+    "brand": "Samsung",
+    "platform": "Exynos",
+    "series": "Galaxy S",
+    "model": "Galaxy S21",
+    "variants": ["SM-G991B", "SM-G991N"]
+  },
+  {
+    "brand": "Apple",
+    "platform": "Apple SoC",
+    "series": "iPhone",
+    "model": "iPhone 11",
+    "variants": ["A2111", "A2221", "A2223"]
+  },
+  {
+    "brand": "Apple",
+    "platform": "Apple SoC",
+    "series": "iPhone",
+    "model": "iPhone 12",
+    "variants": ["A2172", "A2402", "A2403", "A2404"]
+  },
+  {
+    "brand": "Apple",
+    "platform": "Apple SoC",
+    "series": "iPhone",
+    "model": "iPhone 13",
+    "variants": ["A2633", "A2634", "A2635", "A2636"]
+  },
+  {
+    "brand": "Xiaomi",
+    "platform": "Qualcomm",
+    "series": "Redmi",
+    "model": "Redmi Note Series",
+    "variants": ["Database Expansion"]
+  },
+  {
+    "brand": "TECNO",
+    "platform": "MediaTek",
+    "series": "TECNO",
+    "model": "TECNO Series",
+    "variants": ["Database Expansion"]
+  },
+  {
+    "brand": "vivo",
+    "platform": "Qualcomm",
+    "series": "vivo",
+    "model": "vivo Series",
+    "variants": ["Database Expansion"]
+  }
+]
